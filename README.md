@@ -1,4 +1,4 @@
-# Azure Speech Studio e Language Studio: Resumo Pessoal
+# Azure Speech Studio e Language Studio
 
 Estudei sobre **Azure Speech Studio** e **Language Studio**, e aqui está o que eu entendi da aula sobre análise de fala e linguagem natural.
 
