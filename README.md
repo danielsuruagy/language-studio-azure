@@ -6,4 +6,4 @@ Já o **Language Studio** foca mais em **processamento de linguagem natural (NLP
 
 O ponto legal é que essas duas ferramentas podem trabalhar juntas: você captura a fala com o Speech Studio, converte para texto, e depois passa pelo Language Studio para **entender significado, sentimento e intenção**. Isso cria uma cadeia completa de análise, desde a voz até o insight final, totalmente na nuvem e escalável.
 
-O que eu levei da aula é que o Azure está tornando tarefas tradicionalmente complexas – reconhecimento de fala e interpretação de linguagem – **acessíveis, rápidas e precisas**, sem precisar configurar complexos modelos de machine learning do zero. Para qualquer projeto que envolva interação humana, essas ferramentas dão uma base poderosa para criar experiências inteligentes e naturais.
+O Azure está tornando tarefas tradicionalmente complexas – reconhecimento de fala e interpretação de linguagem – **acessíveis, rápidas e precisas**, sem precisar configurar complexos modelos de machine learning do zero. Para qualquer projeto que envolva interação humana, essas ferramentas dão uma base poderosa para criar experiências inteligentes e naturais.
