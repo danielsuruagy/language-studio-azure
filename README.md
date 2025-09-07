@@ -1,4 +1,4 @@
-# Azure Speech e Language Studio
+# Language Studio e Speech no Azure
 
 O **Azure Speech Studio** é uma ferramenta incrível para trabalhar com áudio e fala. Ele permite **converter voz em texto (speech-to-text)**, **texto em voz (text-to-speech)** e até analisar emoções ou intenção por meio da fala. Para mim, a parte mais interessante é como ele consegue **entender diferentes idiomas, sotaques e entonações**, o que abre um leque enorme para criar aplicações mais humanas, como assistentes virtuais ou sistemas de atendimento automatizado.
 
